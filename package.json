@@ -1,0 +1,26 @@
+{
+    "name": "frontboiler",
+    "version": "0.0.1",
+    "description": "Boilerplate for front-end development",
+    "main": "index.js",
+    "dependencies": {
+        "grunt": "~0.4.2"
+    },
+    "devDependencies": {
+        "grunt": "~0.4.2",
+        "grunt-contrib-compass": "~0.7.0",
+        "grunt-contrib-concat": "~0.3.0",
+        "grunt-contrib-uglify": "~0.2.7",
+        "grunt-contrib-watch": "~0.5.3"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/dousedfirepants/frontboiler.git"
+    },
+    "author": "Flashgroup",
+    "license": "BSD-2-Clause",
+    "bugs": {
+        "url": "https://github.com/dousedfirepants/frontboiler/issues"
+    },
+    "homepage": "https://github.com/dousedfirepants/frontboiler"
+}
